@@ -1,4 +1,4 @@
-### Hi there 👋🏽 👨🏽‍💻
+# Hello 👋🏽 👨🏽‍💻
 
 Hi, I'm DaJuan Harris a Computer Science Student at Florida International. I'm currently a Junior with an expected graduation date of December 2021. I am also the Director of Code for my university's UPE chapter. As a developer, I focus on mobile and web aplications. Although I am famillar with a lot of languages and frameworks, my go to languages is Javascript.
 
